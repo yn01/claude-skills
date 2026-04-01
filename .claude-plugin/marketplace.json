@@ -1,0 +1,9 @@
+{
+  "name": "yn01-skills",
+  "strict": false,
+  "skills": {
+    "source": "git-subdir",
+    "repo": "yn01/claude-skills",
+    "path": "skills"
+  }
+}
