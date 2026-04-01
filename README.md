@@ -12,7 +12,8 @@ Custom Claude Code skills by yn01.
 
 | Skill | Description |
 |-------|-------------|
-| *(coming soon)* | |
+| [mcp-debug](skills/mcp-debug/SKILL.md) | MCP server troubleshooting — connection issues, missing tools, transport-specific logs, `claude mcp` commands |
+| [mcp-tool-design](skills/mcp-tool-design/SKILL.md) | MCP tool design best practices — Tool/Resource/Prompt selection, description writing, input schema, error handling, agent-facing patterns |
 
 ## Adding a New Skill
 
