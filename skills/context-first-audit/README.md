@@ -44,3 +44,8 @@ Place the `context-first-audit/` folder in your Claude skills directory (`skills
 ---
 
 Part of the [`yn01/claude-skills`](https://github.com/yn01/claude-skills) collection.
+
+## Changelog
+
+### v1.0.0 — 2026-04-18
+- Initial release
